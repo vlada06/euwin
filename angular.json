@@ -68,6 +68,9 @@
               "buildTarget": "euwin:build:development"
             }
           },
+          "options":{
+              "port": 4229
+          },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
