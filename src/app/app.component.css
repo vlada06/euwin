@@ -123,6 +123,13 @@ sup {
   top: -0.5em;
 }
 
+
+.draws {
+  max-width: 400px;
+  margin: 50px auto;
+  font-family: "Helvetica Neue";
+}
+
 /*
 Tabular data
 ============
@@ -286,6 +293,9 @@ h3 {
   font-size: large;
 }
 
+draw {
+
+}
 
 main {
   font-family: "Helvetica Neue";

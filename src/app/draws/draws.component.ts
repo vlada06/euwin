@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import {Component, Input} from '@angular/core';
+import {Draw} from "../../model/draw";
 
 @Component({
   selector: 'app-draws',
@@ -8,4 +9,13 @@ import { Component } from '@angular/core';
 })
 export class DrawsComponent {
 
+  @Input()
+    // draw: Draw;
+  draw: Draw | any;
+
+  constructor() {
+  }
+
+  ngOnInit() {
+  }
 }
