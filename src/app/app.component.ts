@@ -21,5 +21,11 @@ export class AppComponent {
   draw01 = DRAWS[0]
   draw02 = DRAWS[1]
   draw03 = DRAWS[2]
+  draw04 = DRAWS[3]
+  draw05 = DRAWS[4]
+  draw06 = DRAWS[5]
+  draw07 = DRAWS[6]
+  draw08 = DRAWS[7]
+  draw09 = DRAWS[8]
 
 }
