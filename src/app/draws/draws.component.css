@@ -1,0 +1,32 @@
+table, th, td, tr {
+  border: 15px solid #d3e3d3;
+  border-collapse: collapse;
+
+}
+th {
+  color: #664422;
+}
+
+td {
+  color: #006600;
+  font-size: medium;
+  font-stretch: expanded;
+  font-style: italic;
+  font-weight: bolder;
+
+}
+
+
+tr {
+  padding-bottom: 25px;
+}
+
+.draw-number {
+  padding-top: 25px;
+  font-weight: bolder;
+}
+
+
+.td1 {
+ color: blue;
+}

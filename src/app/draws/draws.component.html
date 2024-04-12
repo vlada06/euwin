@@ -1,3 +1,25 @@
-
-<h2>draws component works!</h2>
-
+<div class="draw-number">
+Draw:   {{ draw.drawNumber }}
+</div>
+<div>
+  <table>
+    <tr>
+      <th>No1</th>
+      <th>No2</th>
+      <th>No3</th>
+      <th>No4</th>
+      <th>No5</th>
+      <th>No6</th>
+      <th>Bonus</th>
+    </tr>
+    <tr>
+      <td> {{ draw.ball01 }}</td>
+      <td> {{ draw.ball02 }}</td>
+      <td> {{ draw.ball03 }}</td>
+      <td> {{ draw.ball04 }}</td>
+      <td> {{ draw.ball05 }}</td>
+      <td> {{ draw.ball06 }}</td>
+      <td class="td1"> {{ draw.bonusBall }}</td>
+    </tr>
+  </table>
+</div>
