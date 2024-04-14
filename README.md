@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## ...On a More Personal note:
+
+#### -  Section 02, Lesson 09: Component Inputs, @Input Decorator
+  - branch:
+  - ...also, playing with CSS, i.e. colours, tables, fonts
+
+#### -  Section 02, Lesson 10: Component Outputs, @Output Decorator
+ - branch: `sec2_10_output_event_emitters`
+ - add buttons, make sure draws show in the console when buttons clicked
+- ... and again, playing with CSS

@@ -9,8 +9,9 @@ import {Draw} from "../../model/draw";
 })
 export class DrawsComponent {
 
-  @Input()
-    // draw: Draw;
+  @Input({
+    required: true
+  })
   draw: Draw | any;
 
   constructor() {
